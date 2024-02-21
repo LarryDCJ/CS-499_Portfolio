@@ -1,0 +1,18 @@
+version: '3.8'
+
+services:
+  mongo:
+    image: mongo:7.0.5-jammy
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: aacuser
+      MONGO_INITDB_ROOT_PASSWORD: 3935
+      MONGO_INITDB_DATABASE: AAC
+    ports:
+      - "35468:35468"
+    volumes:
+      - mongo-data:/data/db
+      - ./init-mongo.js:/docker-entrypoint-initdb.d/init-mongo.js:ro
+
+volumes:
+  mongo-data:
+    driver: local
