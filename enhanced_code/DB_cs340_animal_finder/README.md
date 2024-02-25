@@ -2,7 +2,7 @@
 
 # Animal Database
 
-[Initial Code Review](https://www.youtube.com/watch?v=phOuFE7oz80)
+### [Initial Code Review Video](https://www.youtube.com/watch?v=phOuFE7oz80)
 
 ## About This Application
 
@@ -31,4 +31,3 @@ For API usage, refer to the following endpoints:
 /delete for removing records.
 Testing
 To ensure the application's reliability, a suite of automated tests is provided. Run pytest in the project directory to execute these tests, verifying the functionality of both the backend logic and the web endpoints.
-

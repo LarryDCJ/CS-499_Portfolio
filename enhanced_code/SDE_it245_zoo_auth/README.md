@@ -2,7 +2,7 @@
 
 # Binary Search Tree
 
-[Initial Code Review](https://www.youtube.com/watch?v=GDugSRiZp2w)
+### [Initial Code Review Video](https://www.youtube.com/watch?v=GDugSRiZp2w)
 
 ## About This Application
 
@@ -27,4 +27,3 @@ The Binary Search Tree (BST) Application is a high-performance, scalable data ma
 
 ## Usage
 After launching the application, users can log in with their credentials. Access to functionalities is based on user roles, with specific features available to administrators, veterinarians, and zookeepers respectively.
-

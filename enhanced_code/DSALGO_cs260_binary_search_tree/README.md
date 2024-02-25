@@ -2,7 +2,7 @@
 
 # Binary Search Tree
 
-[Initial Code Review](https://www.youtube.com/watch?v=GDugSRiZp2w)
+### [Initial Code Review Video](https://www.youtube.com/watch?v=GDugSRiZp2w)
 
 ## About This Application
 
@@ -21,4 +21,3 @@ The Binary Search Tree (BST) Application is a high-performance, scalable data ma
 
 ### Usage
 After building the project, you can run the executable to interact with the BST application. The application allows for the management of data using AVL balanced binary search trees, ensuring efficient processing.
-
