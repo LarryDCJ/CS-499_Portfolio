@@ -1,6 +1,10 @@
 [Repo Home](README.md) - [Software Design & Engineering](../../enhanced_code/SDE_it245_zoo_auth/SDE.md) - [Data Structures and Algorithms](../../enhanced_code/DSALGO_cs260_binary_search_tree/ADS.md) - [Databases](../../enhanced_code/DB_cs340_animal_finder/DB.md) - [Code Review](../../CR.md)
 
+[Databases Readme](./README.md)
+
 <h1>Databases</h1>
+
+
 
 The initial implementation of the AnimalShelter class for the Python-based project focused on providing a straightforward interface for CRUD operations with MongoDB. This implementation allowed for basic interactions such as creating, reading, updating, and deleting animal records within a MongoDB database. The read method utilized MongoDB's find method to return a cursor pointing to the matched documents based on the provided query. This approach worked but returned raw MongoDB cursor objects, which aren’t serializable to JSON when returning data for web endpoints, potentially complicating data manipulation and presentation in the UI.
 

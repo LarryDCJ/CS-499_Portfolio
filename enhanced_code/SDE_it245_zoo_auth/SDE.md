@@ -1,5 +1,7 @@
 [Repo Home](README.md) - [Software Design & Engineering](../../enhanced_code/SDE_it245_zoo_auth/SDE.md) - [Data Structures and Algorithms](../../enhanced_code/DSALGO_cs260_binary_search_tree/ADS.md) - [Databases](../../enhanced_code/DB_cs340_animal_finder/DB.md) - [Code Review](../../CR.md)
 
+[Software Design & Engineering Readme](./README.md)
+
 <h1>Software Design & Engineering</h1>
 
 The Zoo Authentication System from the IT-245 course demonstrated newly gained skills in software engineering and design. For enhancement in CS-499, I’ve refactored the code to move logic into separate methods. This will lead to an easier time sharing logic between classes as the code is further refined as well as sharing parts of the library externally. I also wrote tests with separate testing resources to ensure any changes don’t break our functionality.
