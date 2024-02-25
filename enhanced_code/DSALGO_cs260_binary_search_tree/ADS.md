@@ -2,10 +2,4 @@
 
 <h1>Algorithms & Data Structures</h1>
 
-## Narrative
-
-### Briefly describe the artifact. What is it? When was it created?
-
-### Justify the inclusion of the artifact in your ePortfolio. Why did you select this item? What specific components of the artifact showcase your skills and abilities in # software development? How was the artifact improved?
-
-### Reflect on the process of enhancing and/or modifying the artifact. What did you learn as you were creating it and improving it? What challenges did you face?
+The CS-260 course project, focusing on Data Structures and Algorithms, involved creating a versatile and efficient data management system using C++  and binary search trees. In CS-499,  I've refined and optimized the binary search tree implementation to ensure high efficiency and scalability, particularly focusing on AVL tree balancing to maintain an O(log n) time complexity for insertion, deletion, and search operations. This new implementation attempts to adhere to algorithmic principles and computer science standards, ensuring the binary search tree efficiently handles data with AVL balancing. This guarantees the tree remains balanced, maintaining optimal time complexity for CRUD operations. The efficiency, combined with documentation, reflects a deep understanding of computer science practices and a commitment to producing high-quality, maintainable code. This approach not only aligns with the course outcomes but also exemplifies best practices in software development, emphasizing the importance of efficiency, security, and readability in code design and implementation. Future steps involve fine-tuning the CSV logic to handle edge cases I’ve found in the data and further modularizing the code to simplify integration with other systems and facilitate easier maintenance. I separated some code into header and implementation files, but there are still some utility methods that need to be organized.
